@@ -73,3 +73,10 @@ layout: default
 
 　　总的来说，在玻利维亚搞定一张手机卡更像是一个小小的冒险副本，打通了就能获得“全程在线”的buff。提前做点功课，到了地方别怕开口求助，你会发现这事其实没那么难。祝你在天空之镜玩得开心，网络通畅！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Bolivia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/bolivia-data-plans)
